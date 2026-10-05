@@ -1,5 +1,7 @@
 # Requirement-to-Test-Case Generator (Local LLM + n8n)
 
+> **Learning project.** A personal experiment with n8n and a local LLM, not maintained. The workflow export is not included in this repo.
+
 A local, self-hosted agentic pipeline that takes a raw software requirement and produces structured, validated QA test cases — with no cloud LLM dependency and no data leaving the machine.
 
 ## Why this exists
